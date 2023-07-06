@@ -7,7 +7,7 @@ Handling the timer's state when user leaves & comes back to the app. Without hav
 
 ## Demo
 
-![GIF](link)
+![GIF](https://github.com/willhCodes/IntevalTimerDemo/blob/main/sample.gif)
 
 When the user leaves and re-enters the app while the timer is active, the app displays the remaining time left and continues running the timer.
 ## Highlights
